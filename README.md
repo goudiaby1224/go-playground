@@ -8,7 +8,7 @@
 
 #### 03 - Add validation tag
 
-#### 04 - Definir une operation permettant de retourner une error lorsque le montant de la dépense depasse la limite de credit disponible
+#### 04 - Definir une operation permettant de retourner une erreur lorsque le montant de la dépense depasse la limite de credit disponible
 
 #### 05 - L'opération devrait s'appliquer aux cartes de credit et de débit
 
