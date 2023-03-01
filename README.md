@@ -12,4 +12,6 @@
 
 #### 05 - L'opération devrait s'appliquer aux cartes de credit et de débit
 
-#### 06 - Ecrire un tests permettant de valider que l'operation de check
+#### 06 - Exposer l'operation via une interface au client appellant 
+
+#### 07 - Ecrire un tests permettant de valider que l'operation de check
