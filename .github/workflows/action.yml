@@ -1,5 +1,6 @@
 name: 'Setup Go environment'
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
